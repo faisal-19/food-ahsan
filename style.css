@@ -36,13 +36,22 @@ section{
 .flexible-container{
     display: flex;
     text-align: center;
+    border-width: 20px;
+    border-radius: 10px;
+   
     
     
+}
+.header{
+    text-align: center;
 }
 .half-width{
     width:70%;
     border:10px;
+    
+    
 }
 footer p{
     text-align: center;
+    margin-top: 100px;
 }
